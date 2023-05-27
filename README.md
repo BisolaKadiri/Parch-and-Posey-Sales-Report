@@ -3,27 +3,20 @@
 
 
 ## SCOPE OF ANALYSIS
+
      This analysis aims to gain insights and understanding of the business operations of Parch and Posey, a company that sells three types of paper (Standard, Gloss, and Poster) to its customers. The analysis involves examining the five tables in the Parch and Posey dataset, which are linked via primary keys and foreign keys, to understand the relationships between customers, orders, purchase regions, sales representatives, and web events. 
+     
     By analyzing these tables, I was able to identify patterns, trends, and relationships that can inform business decisions, such as:
 
 •	The quantity of each paper type sold.
-
 •	A breakdown of sales per paper type and most popular paper type among customers.
-
 •	The total and average amount of paper sold.
-
 •	The customer with the highest purchase.
-
 •	The monthly trend in sales.
-
 •	The most profitable customer of the company.
-
 •	Quantity of paper type sold per region.
-
 •	The most profitable regions and sales representatives. 
-
 •	Evaluation of sales representative performance.
-
 •	The channels through which sales was made.
 
   Overall, this analysis aims to use data to inform business decisions and drive growth and profitability for Parch and Posey.
